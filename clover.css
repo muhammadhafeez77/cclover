@@ -1,0 +1,34 @@
+ 
+                /* TASK - 1 ( INTRODUCTION ) */   
+#page
+ {
+    background : #a8e6ff;
+    border: 5px solid black; 
+    padding: 2px; 
+    text-align:justify;
+ }
+
+#p 
+ {
+     background-color: aquamarine;
+     text-align: left;
+     font-size: large;
+     font-family: Verdana;
+ }
+
+#pa1
+  {
+     background-color: greenyellow;
+     text-align: left;
+     font-family: 'Trebuchet MS';
+  }
+
+#pic img {
+    float: right;
+    margin-left: 15px;
+    width: 100px;
+    height: auto;
+    border: 10;
+}
+
+
